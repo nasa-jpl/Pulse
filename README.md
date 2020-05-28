@@ -1,5 +1,5 @@
 ![Jet Propulsion Laboratory, California Institute of Technology (NASA JPL)](Images/Misc/NASA_JPL_LOGO.jpg)
-# PULSE - a pendant to warn you when you touch your face
+# PULSE - A pendant to warn you when you touch your face
 Here’s the tool and equipment list, materials, circuit diagram and assembly instructions. The ability to solder is necessary to assemble the PULSE pendant. Except for the IR sensor unit, the parts are generic and can be purchased broadly. Example links for purchasing these parts are shown.
 
 ### Table of Contents
