@@ -107,6 +107,8 @@ Central to the design of the PULSE pendant is the infrared sensor unit (U1 in th
 
 12. With the electronics in the case base, the battery can be installed, the switch can be set on; move your hand in front of the IR 				sensor and the red LED on the sensor board will light and the case will PULSE!  
 
+VIDEO COMING SOON
+
 [![GitHub_Video_Thumbnail.jpg](Images/Misc/GitHub_Video_Thumbnail.jpg)](https://jpltube.jpl.nasa.gov/watch?v=IGmvwu)
 
 13. Install the top case. Attach a necklace of your choice and PULSE is complete
