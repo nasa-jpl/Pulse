@@ -109,7 +109,7 @@ Central to the design of the PULSE pendant is the infrared sensor unit (U1 in th
 
 VIDEO COMING SOON
 
-[![GitHub_Video_Thumbnail.jpg](Images/Misc/GitHub_Video_Thumbnail.jpg)](https://jpltube.jpl.nasa.gov/watch?v=IGmvwu)
+[![GitHub_Video_Thumbnail.jpg](Images/Misc/GitHub_Video_Thumbnail.jpg)](https://www.youtube.com/watch?v=7utCPXKdKHg&list=PLKWlaxzCh8uKqaNQIiBa6WjCEDBVH6ehV&index=3)
 
 13. Install the top case. Attach a necklace of your choice and PULSE is complete
 
