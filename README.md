@@ -3,17 +3,17 @@
 Here’s the tool and equipment list, materials, circuit diagram and assembly instructions. The ability to solder is necessary to assemble the PULSE pendant. Except for the IR sensor unit, the parts are generic and can be purchased broadly. Example links for purchasing these parts are shown.
 
 ### Table of Contents
-* [Tools and equipment needed](https://github.jpl.nasa.gov/rafaelm/Pulse/blob/master/README.md#tools-and-equipment-needed)
+* [Tools and equipment needed](https://github.com/nasa-jpl/Pulse#tools-and-equipment-needed)
 
-* [Materials Required and links for ordering](https://github.jpl.nasa.gov/rafaelm/Pulse/blob/master/README.md#materials-required-and-links-for-ordering)
+* [Materials Required and links for ordering](https://github.com/nasa-jpl/Pulse#materials-required-and-links-for-ordering)
 
-* [Pendant Case](https://github.jpl.nasa.gov/rafaelm/Pulse/blob/master/README.md#pendant-case)
+* [Pendant Case](https://github.com/nasa-jpl/Pulse#pendant-case)
 
-* [Circuit Diagram](https://github.jpl.nasa.gov/rafaelm/Pulse/blob/master/README.md#circuit-diagram)
+* [Circuit Diagram](https://github.com/nasa-jpl/Pulse#circuit-diagram)
 
-* [Assembly of the PULSE pendant](https://github.jpl.nasa.gov/rafaelm/Pulse/blob/master/README.md#assembly-of-the-pulse-pendant)
+* [Assembly of the PULSE pendant](https://github.com/nasa-jpl/Pulse#assembly-of-the-pulse-pendant)
 
-* [DISCLAIMER](https://github.jpl.nasa.gov/rafaelm/Pulse/blob/master/README.md#disclaimer)
+* [DISCLAIMER](https://github.com/nasa-jpl/Pulse#disclaimer)
 
 
 
