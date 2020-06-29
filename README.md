@@ -41,7 +41,7 @@ Here’s the tool and equipment list, materials, circuit diagram and assembly in
 
 4. Slide Switch to fit case: [Order Here](https://www.amazon.com/gp/product/B07NLR444L/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
 
-5. Vibrating Motor to fit case [Order Here](https://www.pololu.com/product/1636)
+5. Vibrating Motor to fit case [Order 10x2.0mm Vibrating Motor Here](https://www.pololu.com/product/1638) or [Order 10x3.4mm Vibrating Motor Here](https://www.pololu.com/product/1636)
 
 6. W1 – 5 cm; W2 – 4 cm; W3 – 2 cm; W4 – 2 cm; 22 Gage Wire
 
