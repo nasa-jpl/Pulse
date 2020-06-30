@@ -59,7 +59,7 @@ The PULSE pendant case was designed to hold the existing parts. Other pendant de
  
 If not using black material for case, the bottom of the IR emitter will need to be painted black or covered with black electrical tape to absorb any light. If this is not done, the sensor will read false motion and vibrate continuously. Only the flat bottom, do not cover the whole LED.
 
-[Download STL Files](https://github.jpl.nasa.gov/rafaelm/Pulse/tree/master/CAD)
+[Download STL Files](https://github.com/nasa-jpl/Pulse/tree/master/CAD)
 
 ![cad_with_parts.jpg](Images/cad_with_parts.jpg)
 
