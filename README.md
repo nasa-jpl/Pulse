@@ -83,35 +83,37 @@ Central to the design of the PULSE pendant is the infrared sensor unit (U1 in th
 
 4. Wire W4 (ground), attaches to pin 1 of the IR sensor
 
-5. The 1 K Ohm standard resistor attaches between the base pin of the transistor and pin 3 of the IR sensor. This picture shows the assembly so far
+5. The 1 K Ohm standard resistor attaches to the middle or base pin of the transistor
+
+6. The 1 K Ohm standard resistor attaches to pin 3 of the IR sensor. This picture shows the assembly so far
 
 ![assembly_step_5.jpg](Images/assembly_step_5.jpg)
 
-6. The red wire of the vibrating motor solders to the collector pin of the transistor. Use heat shrink to cover the connection
+7. The red wire of the vibrating motor solders to the collector pin of the transistor. Use heat shrink to cover the connection
 
 ![assembly_step_6.jpg](Images/assembly_step_6.jpg)
 
-7. The black wire of the vibrating motor solders to the ground port of the battery case (jointly with W4). The other end of W1 solders 		to the positive pin of the battery holder. This picture shows the completed assembly and the wires folded for insertion into the 				bottom case
+8. The black wire of the vibrating motor solders to the ground port of the battery case (jointly with W4). The other end of W1 solders 		to the positive pin of the battery holder. This picture shows the completed assembly and the wires folded for insertion into the 				bottom case
 
 ![assembly_step_7.jpg](Images/assembly_step_7.jpg)
 
-8. The motor and switch snap into the case base
+9. The motor and switch snap into the case base
 
-9. The IR sensor slides into the case base rails
+10. The IR sensor slides into the case base rails
 
-10. The electronics are gently tucked into the case base
+11. The electronics are gently tucked into the case base
 
 ![assembly_step_10.jpg](Images/assembly_step_10.jpg)
 
-11. Using a dark colored paint (i.e., acrylic, oil, nail polish etc.) such as black, navy blue, dark green, etc., lightly paint over the 		emitter as shown in the image below. Using a dark colored pen or marker will not work the same as paint. 
+12. Using a dark colored paint (i.e., acrylic, oil, nail polish etc.) such as black, navy blue, dark green, etc., lightly paint over the 		emitter as shown in the image below. Using a dark colored pen or marker will not work the same as paint. 
 
 ![assembly_step_11.jpg](Images/assembly_step_11.jpg)
 
-12. With the electronics in the case base, the battery can be installed, the switch can be set on; move your hand in front of the IR 				sensor and the red LED on the sensor board will light and the case will PULSE!  
+13. With the electronics in the case base, the battery can be installed, the switch can be set on; move your hand in front of the IR 				sensor and the red LED on the sensor board will light and the case will PULSE!  
 
 [![GitHub_Video_Thumbnail.jpg](Images/Misc/GitHub_Video_Thumbnail.jpg)](https://www.youtube.com/watch?v=7utCPXKdKHg&list=PLKWlaxzCh8uKqaNQIiBa6WjCEDBVH6ehV&index=3)
 
-13. Install the top case. Attach a necklace of your choice and PULSE is complete
+14. Install the top case. Attach a necklace of your choice and PULSE is complete
 
 ### DISCLAIMER
 
