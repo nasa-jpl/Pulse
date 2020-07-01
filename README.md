@@ -83,7 +83,7 @@ Central to the design of the PULSE pendant is the infrared sensor unit (U1 in th
 
 4. Wire W4 (ground), attaches to pin 1 of the IR sensor
 
-5. Resistor R attaches between the base pin of the transistor and pin 3 of the IR sensor. This picture shows the assembly so far
+5. The 1 K Ohm standard resistor attaches between the base pin of the transistor and pin 3 of the IR sensor. This picture shows the assembly so far
 
 ![assembly_step_5.jpg](Images/assembly_step_5.jpg)
 
