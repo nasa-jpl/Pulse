@@ -13,7 +13,7 @@ Here’s the tool and equipment list, materials, circuit diagram and assembly in
 
 * [Assembly of the PULSE pendant](https://github.com/nasa-jpl/Pulse#assembly-of-the-pulse-pendant)
 
-* [ACKNOWLEDGEMENTS](https://github.com/nasa-jpl/Pulse#acknowledgements)
+* [Acknowledgements](https://github.com/nasa-jpl/Pulse#acknowledgements)
 
 * [DISCLAIMER](https://github.com/nasa-jpl/Pulse#disclaimer)
 
@@ -117,7 +117,7 @@ Central to the design of the PULSE pendant is the infrared sensor unit (U1 in th
 
 14. Install the top case. Attach a necklace of your choice and PULSE is complete
 
-### ACKNOWLEDGEMENTS
+### Acknowledgements
 
 In early March of 2020, it was becoming quite apparent that the pandemic has reached the United States. We, like so many other countries, would have to partake in precautionary methods to protect ourselves from contracting a novel virus that was affecting the world in unrecognizable ways.  
 
