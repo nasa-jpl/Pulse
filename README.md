@@ -13,7 +13,7 @@ Here’s the tool and equipment list, materials, circuit diagram and assembly in
 
 * [Assembly of the PULSE pendant](https://github.com/nasa-jpl/Pulse#assembly-of-the-pulse-pendant)
 
-* [DISCLAIMER](https://github.com/nasa-jpl/Pulse#disclaimer)
+* [ACKNOWLEDGEMENTS](https://github.com/nasa-jpl/Pulse#acknowledgements)
 
 * [DISCLAIMER](https://github.com/nasa-jpl/Pulse#disclaimer)
 
@@ -116,6 +116,18 @@ Central to the design of the PULSE pendant is the infrared sensor unit (U1 in th
 [![GitHub_Video_Thumbnail.jpg](Images/Misc/GitHub_Video_Thumbnail.jpg)](https://www.youtube.com/watch?v=7utCPXKdKHg&list=PLKWlaxzCh8uKqaNQIiBa6WjCEDBVH6ehV&index=3)
 
 14. Install the top case. Attach a necklace of your choice and PULSE is complete
+
+### ACKNOWLEDGEMENTS
+
+In early March of 2020, it was becoming quite apparent that the pandemic has reached the United States. We, like so many other countries, would have to partake in precautionary methods to protect ourselves from contracting a novel virus that was affecting the world in unrecognizable ways.  
+
+With little information available, we turned to the CDC for guidance. They provide the general public with a clear list of tasks to help prevent infection, one of which was advising us not to touch our faces. As the news unfolded and the warnings heightened, we found ourselves immersed in discussions related to the topic, most of which consisted of commiserating on the laborious task of not touching our face. During a Monday morning tag-up, and as our team members revealed how often they touch their face, Tom Cwik, the engineer, and Faith Oftadeh, the designer, suddenly realized that a simple wearable device may help with this problematic subconscious behavior. 
+
+Immediately, we started pulling together a list of inexpensive and easily accessible parts, sketching out ideas, and once the concept seemed plausible, we agreed to pursue it all while JPL closed and transitioned to telework. Within days, we found ourselves adjusting to a new way of living. While working from home, managing childcare, and attempting to do “business as usual,” we continued developing PULSE via text and Facetime during the nights and weekends. When it came to creating a proper casing for the pendant, Dan Kolenz joined the team as the CAD mechanical designer. After prototyping and working through sluggish online parts ordering, coupled with frequent late-night texting, facetime sessions, and 3D printing in the garage, we managed to create an operating prototype.  
+
+Dave Gallagher, JPL’s Associate Lab Director provided significant encouragement and JPL support to move forward. Rafael Martinez paved the way from within JPL to allow us to release PULSE and bring it to where it is today. Lisa Harbottle volunteered to demo and model the pendant, Gary Bolotin gave a review of the electronics, and Kristy Kawasaki designed the website. 
+
+Our goal was to create a simple device that can help minimize the spread of a virus. We also hope that the public can further develop this concept. As we return to our office spaces and attempt to integrate back into society, we believe that PULSE may help others stay as healthy as possible.
 
 ### DISCLAIMER
 
