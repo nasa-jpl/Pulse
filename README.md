@@ -137,7 +137,8 @@ Our goal was to create a simple device that can help minimize the spread of a vi
 * Featured on KTLA channel 5 morning news and ABC LA channel 7 June 30, 2020
 * Live via zoom on Fox channel 26 Morning Show, Houston, Wednesday July 1, 2020
 
-* [Techcrunch](https://techcrunch.com/2020/06/25/nasas-jpl-open-sources-an-anti-face-touching-wearable-to-help-reduce-the-spread-of-covid-19/)
+1. [Techcrunch](https://techcrunch.com/2020/06/25/nasas-jpl-open-sources-an-anti-face-touching-wearable-to-help-reduce-the-spread-of-covid-19/)
+1. [USATODAY](https://www.usatoday.com/story/tech/2020/06/29/dont-touch-your-face-nasa-developed-necklace-remind-you/3277469001)
 
 
 ### Disclaimer
