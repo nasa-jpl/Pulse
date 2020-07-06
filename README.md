@@ -15,7 +15,7 @@ Here’s the tool and equipment list, materials, circuit diagram and assembly in
 
 * [Acknowledgements](https://github.com/nasa-jpl/Pulse#acknowledgements)
 
-* [In The Press](https://github.com/nasa-jpl/Pulse#In The Press)
+* [In The Press](https://github.com/nasa-jpl/Pulse#In-The-Press)
 
 * [Disclaimer](https://github.com/nasa-jpl/Pulse#disclaimer)
 
@@ -136,6 +136,9 @@ Our goal was to create a simple device that can help minimize the spread of a vi
 * Radio interview with KNX LA 1070 AM
 * Featured on KTLA channel 5 morning news and ABC LA channel 7 June 30, 2020
 * Live via zoom on Fox channel 26 Morning Show, Houston, Wednesday July 1, 2020
+
+* [Techcrunch](https://techcrunch.com/2020/06/25/nasas-jpl-open-sources-an-anti-face-touching-wearable-to-help-reduce-the-spread-of-covid-19/)
+
 
 ### Disclaimer
 
