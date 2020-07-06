@@ -15,7 +15,9 @@ Here’s the tool and equipment list, materials, circuit diagram and assembly in
 
 * [Acknowledgements](https://github.com/nasa-jpl/Pulse#acknowledgements)
 
-* [DISCLAIMER](https://github.com/nasa-jpl/Pulse#disclaimer)
+* [In The Press](https://github.com/nasa-jpl/Pulse#In The Press)
+
+* [Disclaimer](https://github.com/nasa-jpl/Pulse#disclaimer)
 
 * [Contact Us](mailto:pulse@jpl.nasa.gov)
 
@@ -129,9 +131,15 @@ Dave Gallagher, JPL’s Associate Lab Director provided significant encouragemen
 
 Our goal was to create a simple device that can help minimize the spread of a virus. We also hope that the public can further develop this concept. As we return to our office spaces and attempt to integrate back into society, we believe that PULSE may help others stay as healthy as possible.
 
-### DISCLAIMER
+### In The Press
 
-DISCLAIMER: The designs herein have not been reviewed, cleared, or approved by FDA or other regulatory authority, nor have they received Coronavirus Disease 2019 (COVID-19) Emergency Use Authorizations for Medical Devices. Neither California Institute of Technology (including the Jet Propulsion Laboratory)("Caltech") nor its employees or agents provide any representation or warranty, express or implied, for fitness for a particular purpose, safety, efficacy, or non-infringement of any third party intellectual property rights. Caltech offers these device designs in good faith to help healthcare providers and others prevent the spread of and treat patients with COVID-19. Physicians and other healthcare providers bear full responsibility to convey warnings and obtain patients' informed consent.
+* Radio interview with KNX LA 1070 AM
+* Featured on KTLA channel 5 morning news and ABC LA channel 7 June 30, 2020
+* Live via zoom on Fox channel 26 Morning Show, Houston, Wednesday July 1, 2020
+
+### Disclaimer
+
+Disclaimer: The designs herein have not been reviewed, cleared, or approved by FDA or other regulatory authority, nor have they received Coronavirus Disease 2019 (COVID-19) Emergency Use Authorizations for Medical Devices. Neither California Institute of Technology (including the Jet Propulsion Laboratory)("Caltech") nor its employees or agents provide any representation or warranty, express or implied, for fitness for a particular purpose, safety, efficacy, or non-infringement of any third party intellectual property rights. Caltech offers these device designs in good faith to help healthcare providers and others prevent the spread of and treat patients with COVID-19. Physicians and other healthcare providers bear full responsibility to convey warnings and obtain patients' informed consent.
 
 ### [Contact Us](mailto:pulse@jpl.nasa.gov)
 
