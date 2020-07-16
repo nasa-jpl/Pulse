@@ -194,10 +194,7 @@ Our goal was to create a simple device that can help minimize the spread of a vi
 1. [Yahoo! news](https://ca.news.yahoo.com/nasas-jpl-open-sources-anti-214029542.html)
 1. [Tribune (Pakistan)](https://tribune.com.pk/story/2252658/nasa-invents-wearable-that-scolds-you-for-touching-your-face)
 1. [Groupo Fórmula (Mexico)](https://www.radioformula.com.mx/vida-y-estilo/20200713/nasa-crea-collar-covid-coronavirus-evita-que-te-toques-la-cara/)
-
-
-
-
+1. [El Tiempo (Colombia)](https://www.eltiempo.com/cultura/gente/covid-19-asi-funciona-el-collar-de-la-nasa-que-previene-el-coronavirus-513088)
 
 
 ### Disclaimer
