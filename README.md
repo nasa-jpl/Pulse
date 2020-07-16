@@ -124,6 +124,7 @@ Central to the design of the PULSE pendant is the infrared sensor unit (U1 in th
 ### Frequently Asked Questions - FAQ's
 
 1.
+     
      Q: How is battery life / current draw with the current design? I have trichotillomania and this would be a fantastic help for me and many other sufferers. However it would mean we would have to wear it all day, every day to kick the habit.   From an environmental perspective I imagine we would need to change this to take a small rechargeable battery (possibly charge circuitry too) to result in less batteries going to landfill/recycling centres.
 
      A: The infrared sensor is the largest current draw and at continuous operation runs the battery down over a day or two depending on use. We are looking at a Version 2 that would include a rechargeable battery. Please look at the Version 2 FAQ question for changes we are considering. 
@@ -141,7 +142,7 @@ Central to the design of the PULSE pendant is the infrared sensor unit (U1 in th
 4.
      Q: Are you planning on making a version 2?
 
-     A: We Are. Functionality for Pulse Version 2: Printed Circuit Board (PCB) holding all electronics. Standard form factor of PCB with infrared (IR) sensor and switch having standard alignment to pendant case
+     A: We Are. Functionality for Pulse Version 2 will have a Printed Circuit Board (PCB) holding all electronics. Standard form factor of PCB with infrared (IR) sensor and switch having standard alignment to pendant case
 
 ### Acknowledgements
 
@@ -192,7 +193,7 @@ Our goal was to create a simple device that can help minimize the spread of a vi
 1. [India Times (India)](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/nasa-invents-a-pendent-that-stops-you-from-touching-your-face/articleshow/76750654.cms)
 1. [Yahoo! news](https://ca.news.yahoo.com/nasas-jpl-open-sources-anti-214029542.html)
 1. [Tribune (Pakistan)](https://tribune.com.pk/story/2252658/nasa-invents-wearable-that-scolds-you-for-touching-your-face)
-1. [Group Fórmula (Mexico)](https://www.radioformula.com.mx/vida-y-estilo/20200713/nasa-crea-collar-covid-coronavirus-evita-que-te-toques-la-cara/)
+1. [Groupo Fórmula (Mexico)](https://www.radioformula.com.mx/vida-y-estilo/20200713/nasa-crea-collar-covid-coronavirus-evita-que-te-toques-la-cara/)
 
 
 
