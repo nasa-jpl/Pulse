@@ -13,7 +13,7 @@ Here’s the tool and equipment list, materials, circuit diagram and assembly in
 
 * [Assembly of the PULSE pendant](https://github.com/nasa-jpl/Pulse#assembly-of-the-pulse-pendant)
 
-* [Frequently Asked Questions](http://github.com/nasa-jpl/pulse#Frequently-Asked-Questions---FAQ's)
+* [Frequently Asked Questions](https://github.com/nasa-jpl/Pulse#frequently-asked-questions---faqs)
 
 * [Acknowledgements](https://github.com/nasa-jpl/Pulse#acknowledgements)
 
