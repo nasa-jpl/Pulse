@@ -13,6 +13,8 @@ Here’s the tool and equipment list, materials, circuit diagram and assembly in
 
 * [Assembly of the PULSE pendant](https://github.com/nasa-jpl/Pulse#assembly-of-the-pulse-pendant)
 
+* [Frequently Asked Questions](http://github.com/nasa-jpl/pulse#Frequently-Asked-Questions---FAQ's)
+
 * [Acknowledgements](https://github.com/nasa-jpl/Pulse#acknowledgements)
 
 * [In The Press](https://github.com/nasa-jpl/Pulse#In-The-Press)
@@ -118,6 +120,28 @@ Central to the design of the PULSE pendant is the infrared sensor unit (U1 in th
 [![GitHub_Video_Thumbnail.jpg](Images/Misc/GitHub_Video_Thumbnail.jpg)](https://www.youtube.com/watch?v=7utCPXKdKHg&list=PLKWlaxzCh8uKqaNQIiBa6WjCEDBVH6ehV&index=3)
 
 14. Install the top case. Attach a necklace of your choice and PULSE is complete
+
+### Frequently Asked Questions - FAQ's
+
+1.
+     Q: How is battery life / current draw with the current design? I have trichotillomania and this would be a fantastic help for me and many other sufferers. However it would mean we would have to wear it all day, every day to kick the habit.   From an environmental perspective I imagine we would need to change this to take a small rechargeable battery (possibly charge circuitry too) to result in less batteries going to landfill/recycling centres.
+
+     A: The infrared sensor is the largest current draw and at continuous operation runs the battery down over a day or two depending on use. We are looking at a Version 2 that would include a rechargeable battery. Please look at the Version 2 FAQ question for changes we are considering. 
+
+2.
+     Q: I assume painting the IR sensor is to reduce the gain a bit? Since the high brightness version is backordered, would the low brightness version work? The range is 12 inches. Perhaps using a shorter lanyard. Or we could find another source, which would have us altering the print job.
+
+     A: We paint the bottom of infrared sensor to limit stray transmitted IR light from bouncing back to the IR receiver. The pendant case color effects this quite a bit - for example a black case does not need the IR transmittor painted. The low-brightness version does work but with reduced range.  
+
+3.
+     Q: Can we order these already built? 
+
+     A: We are seeking production houses that would be interested in producing PULSE. 
+
+4.
+     Q: Are you planning on making a version 2?
+
+     A: We Are. Functionality for Pulse Version 2: Printed Circuit Board (PCB) holding all electronics. Standard form factor of PCB with infrared (IR) sensor and switch having standard alignment to pendant case
 
 ### Acknowledgements
 
