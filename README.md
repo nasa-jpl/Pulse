@@ -166,7 +166,7 @@ Our goal was to create a simple device that can help minimize the spread of a vi
 1. [Mashable](https://mashable.com/article/nasa-coronavirus-pulse-necklace/)
 1. [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-8472289/NASA-designs-necklace-simulates-nudge-person-attempts-touch-face.html)
 1. [CNet](https://www.cnet.com/health/nasa-necklace-fights-coronavirus-by-reminding-you-not-to-touch-your-face/)
-1. [UK News](https://uk.news.yahoo.com/nasas-jpl-open-sources-anti-214029542.html?guccounter=1)
+1. [UK News (United Kingdom)](https://uk.news.yahoo.com/nasas-jpl-open-sources-anti-214029542.html?guccounter=1)
 1. [Engadget](https://www.engadget.com/nasa-coronavirus-covid-19-necklace-jpl-stop-touching-your-face-194312229.html)
 1. [GovTech](https://www.govtech.com/question-of-the-day/Question-of-the-Day-for-06292020.html)
 1. [SlashGear](https://www.slashgear.com/nasa-pulse-necklace-is-a-clever-diy-solution-to-prevent-face-touching-26626595/)
@@ -186,8 +186,15 @@ Our goal was to create a simple device that can help minimize the spread of a vi
 1. [3DPrintingDesign](http://www.3dprintingdesign.es/en/new/a-3d-printed-necklace-that-prevents-you-from-touching-your-face)
 1. [FirstPost](https://www.firstpost.com/tech/science/coronavirus-outbreak-nasa-develops-pulse-pendant-supposed-help-keep-hands-away-face-8540481.html)
 1. [8NewsNow](https://www.8newsnow.com/news/local-news/nasa-wearable-necklace-reminds-you-not-to-touch-your-face/)
-1. [Telecino](https://www.telecinco.es/informativos/tecnologia/colgante-disenado-nasa-evitar-tocarte-cara-contagio-coronavirus-be5ma_18_2971770181.html)
-1. [Tivi (Finnish news)](https://www.tivi.fi/uutiset/nasan-keksinto-yrittaa-vahentaa-koronaviruksen-leviamista-kaulakoru-estaa-kasvojen-koskemisen/07645c61-0079-4207-91b9-3c09c1c00a36)
+1. [Telecino (Spain)](https://www.telecinco.es/informativos/tecnologia/colgante-disenado-nasa-evitar-tocarte-cara-contagio-coronavirus-be5ma_18_2971770181.html)
+1. [Tivi (Finland)](https://www.tivi.fi/uutiset/nasan-keksinto-yrittaa-vahentaa-koronaviruksen-leviamista-kaulakoru-estaa-kasvojen-koskemisen/07645c61-0079-4207-91b9-3c09c1c00a36)
+1. [GCN](https://gcn.com/articles/2020/07/02/nasa-pulse-face-touch-warning-wearable.aspx)
+1. [India Times (India)](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/nasa-invents-a-pendent-that-stops-you-from-touching-your-face/articleshow/76750654.cms)
+1. [Yahoo! news](https://ca.news.yahoo.com/nasas-jpl-open-sources-anti-214029542.html)
+1. [Tribune (Pakistan)](https://tribune.com.pk/story/2252658/nasa-invents-wearable-that-scolds-you-for-touching-your-face)
+1. [Group Fórmula (Mexico)](https://www.radioformula.com.mx/vida-y-estilo/20200713/nasa-crea-collar-covid-coronavirus-evita-que-te-toques-la-cara/)
+
+
 
 
 
